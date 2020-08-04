@@ -1,4 +1,4 @@
-# studyNuxt
+# My-Nuxt-app-front
 
 ## Build Setup
 
